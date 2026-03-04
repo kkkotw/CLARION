@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- aparat - obiektyw -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,40a14,14 0,1 0,14,14A14,14 0,0 0,54,40Zm0,24a10,10 0,1 1,10,-10A10,10 0,0 1,54,64Z" />
+    <!-- obudowa aparatu -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,32H72.4L68,26H40L35.6,32H28a4,4 0,0 0,-4,4V76a4,4 0,0 0,4,4H80a4,4 0,0 0,4,-4V36A4,4 0,0 0,80,32Zm0,44H28V36h11.6L44,30H64l4.4,6H80Z" />
+</vector>
