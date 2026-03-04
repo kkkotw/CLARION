@@ -1,0 +1,5 @@
+-keep class com.clarion.scanner.data.api.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
